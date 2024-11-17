@@ -34,7 +34,7 @@
     "products":[
         {
             "id":"1",
-            "img": "https://img.freepik.com/premium-psd/png-pizza-fast-food-image-transparent-background_1022554-37.jpg",
+            "img": "https://thumbs.dreamstime.com/b/pizza-delicious-isolated-white-transparent-background-png-file-ready-to-use-pizza-delicious-isolated-white-transparent-293224138.jpg",
             "title":"Чизбургер-пицца",
             "typeId":"0",
             "sizeId":"1",
@@ -44,7 +44,7 @@
         },
         {
             "id":"2",
-            "img": "https://img.freepik.com/premium-psd/png-pizza-fast-food-image-transparent-background_1022554-37.jpg",
+            "img": "https://img.freepik.com/premium-photo/isolated-pepperoni-pizza-with-salami_219193-8159.jpg?ga=GA1.1.177307133.1712408664&semt=ais_hybrid",
             "title":"Сырная",
             "typeId":"0",
             "sizeId":"1",
@@ -54,7 +54,7 @@
         },
         {
             "id":"3",
-            "img": "https://img.freepik.com/premium-psd/png-pizza-fast-food-image-transparent-background_1022554-37.jpg",
+            "img": "https://img.freepik.com/free-psd/top-view-delicious-pizza_23-2151868900.jpg?ga=GA1.1.177307133.1712408664&semt=ais_hybrid",
             "title":"Креветки по-азиатски",
             "typeId":"0",
             "sizeId":"1",
@@ -64,7 +64,7 @@
         },
         {
             "id":"4",
-            "img": "https://img.freepik.com/premium-psd/png-pizza-fast-food-image-transparent-background_1022554-37.jpg",
+            "img": "https://img.freepik.com/premium-photo/isolated-pizza-with-meat-vegetables-white_219193-5970.jpg?ga=GA1.1.177307133.1712408664&semt=ais_hybrid",
             "title":"Сырный цыпленок",
             "typeId":"0",
             "sizeId":"1",
