@@ -1,0 +1,78 @@
+{
+    "categories":[
+    {
+        "id":"1",
+        "name": "Все",
+        "isActive": true
+    },
+    {
+        "id":"2",
+        "name": "Мясные",
+        "isActive": false
+    },
+    {
+        "id":"3",
+        "name": "Вегетарианская",
+        "isActive": false
+    },
+    {
+        "id":"4",
+        "name": "Гриль",
+        "isActive": false
+    },
+    {
+        "id":"5",
+        "name": "Острые",
+        "isActive": false
+    },
+    {
+        "id":"6",
+        "name": "Закрытые",
+        "isActive": false
+    }
+    ],
+    "products":[
+        {
+            "id":"1",
+            "img": "https://img.freepik.com/premium-psd/png-pizza-fast-food-image-transparent-background_1022554-37.jpg",
+            "title":"Чизбургер-пицца",
+            "typeId":"0",
+            "sizeId":"1",
+            "price":"395",
+            "savedCount":"0",
+            "categoryId":"1"
+        },
+        {
+            "id":"2",
+            "img": "https://img.freepik.com/premium-psd/png-pizza-fast-food-image-transparent-background_1022554-37.jpg",
+            "title":"Сырная",
+            "typeId":"0",
+            "sizeId":"1",
+            "price":"450",
+            "savedCount":"0",
+            "categoryId":"2"
+        },
+        {
+            "id":"3",
+            "img": "https://img.freepik.com/premium-psd/png-pizza-fast-food-image-transparent-background_1022554-37.jpg",
+            "title":"Креветки по-азиатски",
+            "typeId":"0",
+            "sizeId":"1",
+            "price":"290",
+            "savedCount":"0",
+            "categoryId":"3"
+        },
+        {
+            "id":"4",
+            "img": "https://img.freepik.com/premium-psd/png-pizza-fast-food-image-transparent-background_1022554-37.jpg",
+            "title":"Сырный цыпленок",
+            "typeId":"0",
+            "sizeId":"1",
+            "price":"385",
+            "savedCount":"0",
+            "categoryId":"1"
+        }
+    ]
+}
+
+
